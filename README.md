@@ -1,5 +1,5 @@
 
-![logo](https://github.com/saidul24/saidul-hasan/blob/main/Blue%20and%20Red%20Edgy%20Gaming%20Youtube%20Banner.png)
+![logo](https://raw.githubusercontent.com/saidul-jehad/saidul-jehad/main/Blue%20and%20Red%20Edgy%20Gaming%20Youtube%20Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Md Jehad Hasan</h1>
